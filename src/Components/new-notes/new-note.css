@@ -1,0 +1,18 @@
+.my-new-note {
+    background: #F2EEE4;
+    height: 100vh;
+}
+
+.new-note p {
+    font-family: 'Pacifico', cursive;
+    text-align: start;
+    padding: 45px 20px 10px 20px;
+    color: #FFB1A3;
+    display: inline-block;
+    font-size: 30px;
+}
+
+.new-note p a {
+    text-decoration: none;
+}
+
